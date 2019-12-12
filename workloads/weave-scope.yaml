@@ -18,7 +18,7 @@ items:
               "url": "/k8s/v1.10/scope.yaml",
               "date": "Thu Dec 12 2019 15:49:22 GMT+0000 (UTC)"
             },
-            "email-address": "support@weave.works"
+            "email-address": "support@weave.wors"
           }
       labels:
         name: weave-scope
